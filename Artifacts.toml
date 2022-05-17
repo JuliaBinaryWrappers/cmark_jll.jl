@@ -1,0 +1,143 @@
+[[cmark]]
+arch = "aarch64"
+git-tree-sha1 = "79fed9577e3b2d3807fa6ba9f1ea2aced56bc87c"
+os = "macos"
+
+    [[cmark.download]]
+    sha256 = "5700da65528f77ffbe0446a74a2f6493acf2ff44cb25e38541cd33f750ea1957"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_jll.jl/releases/download/cmark-v0.30.2+0/cmark.v0.30.2.aarch64-apple-darwin.tar.gz"
+[[cmark]]
+arch = "aarch64"
+git-tree-sha1 = "11e33f781940a621ba2434faeb0e72ad2c6aa61c"
+libc = "glibc"
+os = "linux"
+
+    [[cmark.download]]
+    sha256 = "b86ea1658de2247974fb24ab7403b170ab7f9b715e7a8795971f9de75a812668"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_jll.jl/releases/download/cmark-v0.30.2+0/cmark.v0.30.2.aarch64-linux-gnu.tar.gz"
+[[cmark]]
+arch = "aarch64"
+git-tree-sha1 = "54112aaa4520d4bbb9c7fd5f3e73852db4858a27"
+libc = "musl"
+os = "linux"
+
+    [[cmark.download]]
+    sha256 = "a552a8ff960713694eeacf2b00d4ff3f49b058574b4e0755c964c7a028b998f6"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_jll.jl/releases/download/cmark-v0.30.2+0/cmark.v0.30.2.aarch64-linux-musl.tar.gz"
+[[cmark]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0fb958b5c98d55a3130f9cc2d24fc7d284905a33"
+libc = "glibc"
+os = "linux"
+
+    [[cmark.download]]
+    sha256 = "6dae786b01a89daab613ee315885ca7aa26d51a006a697e19647cf570beff4a8"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_jll.jl/releases/download/cmark-v0.30.2+0/cmark.v0.30.2.armv6l-linux-gnueabihf.tar.gz"
+[[cmark]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d8b9f08c19797c35e2824215cfb42414d2594896"
+libc = "musl"
+os = "linux"
+
+    [[cmark.download]]
+    sha256 = "e9a9a3d1c42b22007bab6d3e932bccbd21cba8d3adb1c5f40ed911f58ceb94fa"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_jll.jl/releases/download/cmark-v0.30.2+0/cmark.v0.30.2.armv6l-linux-musleabihf.tar.gz"
+[[cmark]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9021648d36ee4cd1f9e4c7338ff404611078f076"
+libc = "glibc"
+os = "linux"
+
+    [[cmark.download]]
+    sha256 = "b10ef0a14499d288abbe27c8e11c8974b4961447f192e912ef6cf8da7c232b2b"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_jll.jl/releases/download/cmark-v0.30.2+0/cmark.v0.30.2.armv7l-linux-gnueabihf.tar.gz"
+[[cmark]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0d055e4226b9071559873601ab710de4801e32b5"
+libc = "musl"
+os = "linux"
+
+    [[cmark.download]]
+    sha256 = "522f34a1a55b84c63d3736a31d9b76a704ca7d5f7be3af441977363f86ef5184"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_jll.jl/releases/download/cmark-v0.30.2+0/cmark.v0.30.2.armv7l-linux-musleabihf.tar.gz"
+[[cmark]]
+arch = "i686"
+git-tree-sha1 = "002abf1325f511643546269332c8351a0c1750dd"
+libc = "glibc"
+os = "linux"
+
+    [[cmark.download]]
+    sha256 = "fcdde3843808df437f92a31f030301ea0e71b4dc17f082e4b3b299327f219356"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_jll.jl/releases/download/cmark-v0.30.2+0/cmark.v0.30.2.i686-linux-gnu.tar.gz"
+[[cmark]]
+arch = "i686"
+git-tree-sha1 = "d1e269b9f3bf3d989fc6bce11bddd5fc65b1c557"
+libc = "musl"
+os = "linux"
+
+    [[cmark.download]]
+    sha256 = "a11d7a3dd3fd16dcb1bb5710d2503edf4d07e400c66179506ed23228bf6fede3"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_jll.jl/releases/download/cmark-v0.30.2+0/cmark.v0.30.2.i686-linux-musl.tar.gz"
+[[cmark]]
+arch = "i686"
+git-tree-sha1 = "d1af4910c3d38436997835a1095d768da48c662c"
+os = "windows"
+
+    [[cmark.download]]
+    sha256 = "0a15befbfea924ea1001ced1bfcacba38b44ac91b9f86da023f797b98ffdc4a2"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_jll.jl/releases/download/cmark-v0.30.2+0/cmark.v0.30.2.i686-w64-mingw32.tar.gz"
+[[cmark]]
+arch = "powerpc64le"
+git-tree-sha1 = "04f477f295d5b5b0f008e1776e649ca26eef33f2"
+libc = "glibc"
+os = "linux"
+
+    [[cmark.download]]
+    sha256 = "eca02b76583c4f7ec349af495d82c1f28d5d8e79d5276b246528e9e11c5d4c91"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_jll.jl/releases/download/cmark-v0.30.2+0/cmark.v0.30.2.powerpc64le-linux-gnu.tar.gz"
+[[cmark]]
+arch = "x86_64"
+git-tree-sha1 = "9eecefd3a6af86ddf01ec01f79deede397be5ef9"
+os = "macos"
+
+    [[cmark.download]]
+    sha256 = "3a4072e3e784a2a78e819cf0fe4d5d7b061324611d3221e57b6739e788cb9d41"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_jll.jl/releases/download/cmark-v0.30.2+0/cmark.v0.30.2.x86_64-apple-darwin.tar.gz"
+[[cmark]]
+arch = "x86_64"
+git-tree-sha1 = "af5487f14daf05dcecc56c61da4ddafd13b38951"
+libc = "glibc"
+os = "linux"
+
+    [[cmark.download]]
+    sha256 = "69e31a3f10e38a55ffbac727ce887c8b0fd6200d9f0b7d3356b27fef20c7b899"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_jll.jl/releases/download/cmark-v0.30.2+0/cmark.v0.30.2.x86_64-linux-gnu.tar.gz"
+[[cmark]]
+arch = "x86_64"
+git-tree-sha1 = "8d52b4e100573bae32017a0097fc614e86cb2b25"
+libc = "musl"
+os = "linux"
+
+    [[cmark.download]]
+    sha256 = "c6e763f0dc40bc873ae5113dee54df7aed1ca272700554308f1af8ecc36c8a35"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_jll.jl/releases/download/cmark-v0.30.2+0/cmark.v0.30.2.x86_64-linux-musl.tar.gz"
+[[cmark]]
+arch = "x86_64"
+git-tree-sha1 = "bdfdb5a4a48293fbc53732f7fb554b792ee2d9f9"
+os = "freebsd"
+
+    [[cmark.download]]
+    sha256 = "ececff6be7d9baf08ea77b684a3dc2a5aea5ad69b7bd82a73df177beef7e13e1"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_jll.jl/releases/download/cmark-v0.30.2+0/cmark.v0.30.2.x86_64-unknown-freebsd.tar.gz"
+[[cmark]]
+arch = "x86_64"
+git-tree-sha1 = "aa08b80d819202fa6e4eee5fc57e9c83d42c8807"
+os = "windows"
+
+    [[cmark.download]]
+    sha256 = "3dfd15ab5207f67058c2fdbaafaf4bb4501122895ed04fcd8a3f6b3da07399eb"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_jll.jl/releases/download/cmark-v0.30.2+0/cmark.v0.30.2.x86_64-w64-mingw32.tar.gz"
